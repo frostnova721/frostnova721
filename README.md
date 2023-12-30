@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostnova721&theme=material-palenight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=frostnova721&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
-### Familiar with 
+### Im Familiar with 
 <div style="display: flex">
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node-js"/>
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
