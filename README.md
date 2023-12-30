@@ -11,6 +11,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=frostnova721&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 ### Tools and languages 
+<div style="display: flex">
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node-js"/>
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
@@ -20,6 +21,4 @@
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
 <img width=40 height=40 src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer"/>
-          
-          
-          
+</div>
