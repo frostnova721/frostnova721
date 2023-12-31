@@ -1,11 +1,11 @@
-<h3 align="center">Hellow! Im FrostNova ❄️</h3>
+<h2 align="center">Hellow! Im FrostNova ❄️</h2>
 
 - Just a random guy trying to learn programming
 - Student
 - I mainly use Node-js, Typescript, Javascript in my projects
 - Hoping to learn other languages
 
-<div align="center">
+<div align="center"><br>
 
 ### Views
 
