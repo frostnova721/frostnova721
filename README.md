@@ -6,7 +6,7 @@
 - Hoping to learn other languages
 
 ### Views
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; align-items: center">
 <div style="border: 1px solid white; display: flex; justify-content: center; align-items: center; border-radius: 10px; height: 250px; width: 500px">
 
 ![FrostNova](https://count.getloli.com/get/@frostnova721?theme=rule34)
