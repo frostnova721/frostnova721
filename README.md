@@ -10,7 +10,7 @@
 ### Views
 
 ![FrostNova](https://count.getloli.com/get/@frostnova721?theme=rule34)
-</div>
+</div><br>
 
 ### My stats
 [![FrostNova's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostnova721&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
