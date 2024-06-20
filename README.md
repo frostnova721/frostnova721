@@ -5,13 +5,6 @@
 - I mainly use Node-js, Typescript, Javascript in my projects
 - Hoping to learn other languages
 
-<div align="center"><br>
-
-### Views
-
-![FrostNova](https://count.getloli.com/get/@frostnova721?theme=rule34)
-</div><br>
-
 ### My stats
 [![FrostNova's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostnova721&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostnova721&theme=material-palenight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
