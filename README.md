@@ -1,14 +1,20 @@
-<h2 align="center">Hellow! Im FrostNova ❄️</h2>
+<h1 align="center">Hellow! Im FrostNova ❄️</h1>
 
-- Just a random guy trying to learn programming
-- Student
-- I mainly use Node-js, Typescript, Javascript in my projects
-- Hoping to learn other languages
+## Bio
+- **Just a random guy trying to learn programming**
+- **Student**
+- **I mainly use Node-js, Typescript, Javascript in my projects**
+- **Hoping to learn other languages**
 
-### My stats
-[![FrostNova's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostnova721&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostnova721&theme=material-palenight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=frostnova721&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+<br>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=frostnova721&theme=material-palenight&hide_border=true">
+</a>
+</p>
+
+<br>
 
 ### Tech Stack 
 <div style="display: flex">
