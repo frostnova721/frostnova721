@@ -25,16 +25,6 @@
 
 <br>
 
-## Stats? Hell yeah!
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=frostnova721&theme=material-palenight&hide_border=true">
-</a>
-</p>
-
-<br>
-
 ## Support My Journey?
 So yeah... I make fun stuff! sometimes useless while the othertimes its the best thing known to mankind (*totally real*)
 
